@@ -1,0 +1,15 @@
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Musteri.resources
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Yonetici.resources
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kemal\Desktop\BANKA\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
